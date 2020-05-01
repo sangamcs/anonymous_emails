@@ -18,3 +18,7 @@ Tutanota
 Mail.com
 mail.ru
 gmail (some condition)
+https://www.fastmail.com/signup/ (free for  30 days)
+dostmail.com 
+seckinmail.com 
+gencmail.com
